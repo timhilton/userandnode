@@ -3,7 +3,6 @@
 This repo is for custom ZSH themes that I will make available as I decide to change them. As a developer, needs change, and your terminal prompt should provide you with the info you need. I'll add more themes as I make them. Currently `userandnode` is the only theme available. Feel free to clone this repo and add it to your themes.  
 
 ## User & Node Version theme
----
 This `oh-my-zsh` theme displays your username, node version, path, and git info in a clean zsh theme.
 
 #### **Installation**
